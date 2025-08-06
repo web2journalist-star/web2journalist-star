@@ -8,7 +8,7 @@ My current focus is on exploring and mastering **AI-assisted development workflo
 
 **🌱 I'm currently building:**
 
-* **PatoDoBot:** A personal productivity assistant designed to promote balanced and healthy work habits, built with a modern full-stack approach. I'm documenting my learning journey and the development process as I go.
+* **PAToDoBot:** A personal productivity assistant designed to promote balanced and healthy work habits, built with a modern full-stack approach. I'm documenting my learning journey and the development process as I go.
 
 **🛠️ My Tech Stack & Tools:**
 
